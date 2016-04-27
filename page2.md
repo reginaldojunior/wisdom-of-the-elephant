@@ -16,7 +16,7 @@ creativity and experience.
 
 ## Programação é uma arte construida em cima da logica
 
-Existe um ou mais equivocos sobre a ideia de programação, onde ela é uma atividade puramente técnica e completamente exata por
+Existe diversas suporsições erradas da programação, que fala que ela é uma atividade puramente técnica e completamente exata por
 natureza, como matematica e fisica. Computação é exata, mas programação não é, O primeiro é um resultado de uma operação de maquina,
 o ultimo ainda espera uma atividade humana.
 
