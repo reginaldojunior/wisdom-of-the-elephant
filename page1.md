@@ -13,9 +13,8 @@ Work with the community. When it fails, don't get disgusted at the failure; get 
 
 ### Comunidade funciona. Quando  isso não acontece, você é a comunidade
 
-"A comunidade" não é uma entidade fisica, é um organismo vivo, quando ela funciona é por causa das pessoas que a compoem, 
-a comunidade funciona junto para o trabalho. Quando ela falha, não é "A comunidade" que falhou, é as pessoas que falharam.
+A "Comunidade" não é uma entidade fisica, é um organismo vivo. Quando ela funciona é porque as pessoas que a compoem estão trabalhando juntas para fazê-la funcionar. Quando ela falha, não é a "Comunidade" que falhou, são as pessoas que falharam.
 
-Trabalhar com a comunidade. Quando ela falha, não é ficar revoltado com o fracasso; é pegar o problema e tentar resolver.
+Trabalhe com a comunidade. Quando ela falha, não fique revoltado com o fracasso; envolva-se e ajude a resolver o problema.
 
 Cal Evans // @calevans
