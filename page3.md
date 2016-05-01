@@ -18,7 +18,7 @@ have to grammar or spell good") As long as you list the steps you took to overco
 ## Compatilhe o que aprendeu, corrigiu, ou desaprendeu com o mundo. E quer ajudar alguém, possivelmente você. Compatilhe!
 
 O blog que tenho escrito, e muito dos blog que eu leio tem me ajudado, são da categoria "notas de auto ajuda". Quando estou com
-dificuldade tecnica em alguma atividade tecnica sempre procuro ler ajuda de como resolver o mesmo problema.
+dificuldade técnica em alguma atividade tecnica sempre procuro ler ajuda de como resolver o mesmo problema.
 
 Aqui está a melhor parte: Os posts da categoria "notas de auto ajuda" que alguém escreve. Nãoe precisar ser elegante e profissional. 
 (Você nem sempre precisar ter uma grámatica ou escrita boa) Como uma longa lista de passos você pode superaro problema, você vai precisar escrever:
