@@ -1,6 +1,6 @@
 # EN
 
-#### Learn the rules like a pro sou you can break them like an artist. - Pablo Picasso
+#### Learn the rules like a pro so you can break them like an artist. - Pablo Picasso
 
 Thoroughout your career you'll be exposed to best practices, leadin practices, established sandards, conventions,
 design patterns, and many other rules of the trade. At times they may seem pintless or arbitray (and some are), but most
@@ -16,5 +16,10 @@ Our industry has 70 yeears of hard-won experience behind it. Learn it, leverage 
 like an artist, not an amateur
 
 # PT-BR
+
+### Aprenda as regras como um profissional para então poder quebra-las como um artista. - Pablo Picasso
+
+Ao longo da sua carreira você vai ser exposto ao melhores práticas, 
+
 
 Larry Garfield // @Crell
