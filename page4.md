@@ -17,9 +17,9 @@ like an artist, not an amateur
 
 # PT-BR
 
-### Aprenda as regras como um profissional para então poder quebra-las como um artista. - Pablo Picasso
+### Aprenda as regras como um profissional para então poder quebrá-las como um artista. - Pablo Picasso
 
-Ao longo da sua carreira você vai ser exposto ao melhores práticas, 
+Ao longo da sua carreira você vai ser exposto às melhores práticas, práticas de liderança, padrões estabelecidos, convenções, design patterns e muitas regras de negócio. 
 
 
 Larry Garfield // @Crell
