@@ -19,3 +19,6 @@ woth the risk of embarrassment... because the rewards can truly be magical.
 #### Grandes coisas podem acontecer quando você passar do limite sa sua zona de conforto... e entao passar um além das suas fronteiras.
 
 Todas coisas boas que aconteceram em minha vida somente foram possiveis pois me permitir fazer algo fora da minha zona de conforto.
+
+
+Gary Hockin // @GeeH
