@@ -18,7 +18,11 @@ woth the risk of embarrassment... because the rewards can truly be magical.
 
 #### Grandes coisas podem acontecer quando você passar do limite sa sua zona de conforto... e entao passar um além das suas fronteiras.
 
-Todas coisas boas que aconteceram em minha vida somente foram possiveis pois me permitir fazer algo fora da minha zona de conforto.
+Todas coisas boas que aconteceram em minha vida somente foram possiveis pois me permitir fazer algo fora da minha zona de conforto. Se eu não tivesse saido da minha zona de conforto para falar com aquela moça bonita, eu não teria uma esposa 
+incrivel e duas garotas "irritantes" adoradas.
 
+Coisas incriveis acontecem quando você se permiti sair da sua zona de conforto, e uma coisa notável acontece quando você corre riscos. Se eu não tivesse arriscado e feito algumas perguntas ridiculas no IRC, Eu nunca teria descoberto a incrivel comunidade PHP; Se eu não tivesse forçado a mim mesmo à comparecer a minha primeira conferencia, Eu não teria a infinidade de pares que agora eu tenho sorte de chamarem como meus amigos.
+
+Claro, que a vida é mais facil com a vida familiar e ficar... 
 
 Gary Hockin // @GeeH
