@@ -23,6 +23,6 @@ incrivel e duas garotas "irritantes" adoradas.
 
 Coisas incriveis acontecem quando você se permiti sair da sua zona de conforto, e uma coisa notável acontece quando você corre riscos. Se eu não tivesse arriscado e feito algumas perguntas ridiculas no IRC, Eu nunca teria descoberto a incrivel comunidade PHP; Se eu não tivesse forçado a mim mesmo à comparecer a minha primeira conferencia, Eu não teria a infinidade de pares que agora eu tenho sorte de chamarem como meus amigos.
 
-Claro, que a vida é mais facil com a vida familiar e ficar... 
+Claro, que a vida é mais facil com a vida familiar e as vezes você fica com vergonha de ter feito algo, Mas para mim, o risco de passar vergonha vale a pena... Porquê as recompesas podem ser magicas. 
 
 Gary Hockin // @GeeH
