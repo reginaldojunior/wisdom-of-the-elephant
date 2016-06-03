@@ -16,14 +16,9 @@ creativity and experience.
 
 ## Programação é uma arte construida em cima da logica
 
-Existe diversas suporsições erradas da programação, que fala que ela é uma atividade puramente técnica e completamente exata por
-natureza, como matematica e fisica. Computação é exata, mas programação não é, O primeiro é um resultado de uma operação de maquina,
-o ultimo ainda espera uma atividade humana.
+Um dos mais consistentes equívocos sobre programação é a ideia que tal atividade é puramente técnica e completamente exata na natureza, como matemática e física. Computação é exata, mas programação não é. A primeira é um resultado de uma operação de máquina, e a segunda ainda é uma atividade humana.
+Programação requer muita criatividade, em cima de conceitos de abstração, ferramentas e técnicas que nós podemos aprender em salas de aulas; toda essa teoria representa somente uma pequena porção do que é necessário para "construir" um grande desenvolvedor.
 
-Programação requer muita criatividade, em cima de conceitos de abstração, ferramentas e tecnicas que nós aprendememos em salas de aulas;
-toda essa teoria representa somente uma pequena porção do que realmente é necessario para "construir" um ótimo desenvolvedor.
-
-Para mim, um desenvolvedor excelente precisa das carateristicas a seguir para um equilibrio perfeito: conhecimento tecnico, 
-curiosidade, criatividade e experiência.
+Para mim, um desenvolvedor excelente precisa ter as seguintes características em perfeito equilíbrio: conhecimento técnico, curiosidade, criatividade e experiência.
 
 Erika Heidi // @erikaheidi
