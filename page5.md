@@ -10,19 +10,19 @@ beyond those grounds. If I hadn't risked ridicule and asked some questions in IR
 PHP community; if I hadn't pushed my-self to attend my first conference, I wouldn't have the plethora of peers I am lucky enough to now call my
 friends.
 
-Of course, life is easier hen you stick with the familiar and sometimes you end up with egg on your face. But for me, it's 
-woth the risk of embarrassment... because the rewards can truly be magical.
+Of course, life is easier when you stick with the familiar and sometimes you end up with egg on your face. But for me, it's 
+worth the risk of embarrassment... because the rewards can truly be magical.
 
 
 # PT-BR
 
-#### Grandes coisas podem acontecer quando você passar do limite sa sua zona de conforto... e entao passar um além das suas fronteiras.
+#### Grandes coisas podem acontecer quando você força o limite da sua zona de conforto... e então passa além dessas fronteiras.
 
-Todas coisas boas que aconteceram em minha vida somente foram possiveis pois me permitir fazer algo fora da minha zona de conforto. Se eu não tivesse saido da minha zona de conforto para falar com aquela moça bonita, eu não teria uma esposa 
-incrivel e duas garotas "irritantes" adoradas.
+Todas coisas boas que aconteceram em minha vida podem ser associadas à fazer algo desconfortável. Se eu não tivesse saído da minha zona de conforto para falar com aquela moça bonita, eu não teria uma esposa 
+incrível e duas garotas "irritantes" adoradas.
 
-Coisas incriveis acontecem quando você se permiti sair da sua zona de conforto, e uma coisa notável acontece quando você corre riscos. Se eu não tivesse arriscado e feito algumas perguntas ridiculas no IRC, Eu nunca teria descoberto a incrivel comunidade PHP; Se eu não tivesse forçado a mim mesmo à comparecer a minha primeira conferencia, Eu não teria a infinidade de pares que agora eu tenho sorte de chamarem como meus amigos.
+Coisas incríveis acontecem quando você força as beiradas da sua zona de conforto, e coisas realmente memoráveis acontecem quando você corre riscos. Se eu não tivesse arriscado e feito algumas perguntas ridículas no IRC, eu nunca teria descoberto a incrível comunidade PHP; se eu não tivesse forçado a mim mesmo à palestrar a minha primeira conferência, eu não teria a infinidade de pares que agora eu tenho sorte de chamarem como meus amigos.
 
-Claro, que a vida é mais facil com a vida familiar e as vezes você fica com vergonha de ter feito algo, Mas para mim, o risco de passar vergonha vale a pena... Porquê as recompesas podem ser magicas. 
+Claro, que a vida é mais fácil com o comum e às vezes você fica com vergonha de ter feito algo. Mas para mim, o risco de passar vergonha vale a pena... Porque as recompesas podem ser verdadeiramente mágicas. 
 
 Gary Hockin // @GeeH
