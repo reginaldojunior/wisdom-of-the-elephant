@@ -16,6 +16,7 @@ worth the risk of embarrassment... because the rewards can truly be magical.
 
 # PT-BR
 
+<<<<<<< HEAD
 #### Grandes coisas podem acontecer quando você passa do limite da sua zona de conforto... e vai além de suas fronteiras.
 
 Todas as coisas boas que aconteceram em minha vida podem ser atribuídas a fazer algo desconfortável. Se eu não tivesse saido 
@@ -27,5 +28,15 @@ mim mesmo a comparecer à minha primeira conferência, eu não teria a quantidad
 
 Claro, a vida é mais facil quando você se prende às coisas a que está acostumado e as vezes você fica com vergonha de ter feito algo. Mas para mim, 
 o risco de passar vergonha vale a pena... Porque as recompesas podem ser mágicas. 
+=======
+#### Grandes coisas podem acontecer quando você força o limite da sua zona de conforto... e então passa além dessas fronteiras.
+
+Todas coisas boas que aconteceram em minha vida podem ser associadas à fazer algo desconfortável. Se eu não tivesse saído da minha zona de conforto para falar com aquela moça bonita, eu não teria uma esposa 
+incrível e duas garotas "irritantes" adoradas.
+
+Coisas incríveis acontecem quando você força as beiradas da sua zona de conforto, e coisas realmente memoráveis acontecem quando você corre riscos. Se eu não tivesse arriscado e feito algumas perguntas ridículas no IRC, eu nunca teria descoberto a incrível comunidade PHP; se eu não tivesse forçado a mim mesmo à palestrar a minha primeira conferência, eu não teria a infinidade de pares que agora eu tenho sorte de chamarem como meus amigos.
+
+Claro, que a vida é mais fácil com o comum e às vezes você fica com vergonha de ter feito algo. Mas para mim, o risco de passar vergonha vale a pena... Porque as recompesas podem ser verdadeiramente mágicas. 
+>>>>>>> upstream/master
 
 Gary Hockin // @GeeH
