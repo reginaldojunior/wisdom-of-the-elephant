@@ -15,7 +15,7 @@ have to grammar or spell good") As long as you list the steps you took to overco
 
 # PT-BR
 
-## Compatilhe o que aprendeu, corrigiu, ou desaprendeu com o mundo. E quer ajudar alguém, possivelmente você. 
+## Compatilhe o que aprendeu, corrigiu, ou desaprendeu com o mundo. Isso ajudará alguém, possivelmente você. 
 Compatilhe!
 
 Alguns dos melhores posts do blog que escrevi, e muitos posts úteis de blogs que li, são da categoria "lições aprendidas". 
