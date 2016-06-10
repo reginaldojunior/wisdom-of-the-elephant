@@ -19,10 +19,19 @@ like an artist, not an amateur
 
 ### Aprenda as regras como um profissional para então poder quebrá-las como um artista. - Pablo Picasso
 
-Ao longo da sua carreira você vai ser exposto às melhores práticas, práticas de liderança, padrões estabelecidos, convenções, design patterns e muitas regras de negócio. Às vezes, eles podem parecer inúteis ou arbitrários (e alguns realmente são), mas a maioria é resultado de sangue, suor e lágrimas daqueles que vieram antes de você. Eles são as experiências de lutas de outros desenvolvedores que querem salvar você da mesma dor e sofrimento. Aprenda-os. Siga as regras... exceto quando você não deve. Nenhuma regra se aplica à todas as situações (inclusive esta). Aprenda o Porquê por trás das regras também. O Porquê é importante.
-Parte do amadurecimento como desenvolvedor é entender por que uma prática de liderança é importante e quando não é. Há uma arte para colorir a parte exterior quando ela não é mais. Há uma arte para colorir fora da linhas, mas você precisa saber O quê, Onde e o Por quê das linhas. Então, quando depara-se com uma situação em que a convenção não é exatamente o caminho correto da ação, você deve fazer uma decisão razoável para quebrar a convenção - ao invés de simplesmente dizer "Eu não entendi, isso deve ser estúpido!".
+Ao longo da sua carreira você será exposto às melhores práticas, práticas de liderança, padrões estabelecidos, convenções, 
+padrões de design e muitas regras de negócio. Às vezes, elas podem parecer inúteis ou arbitrárias (e algumas são), 
+mas a maioria é resultado de sangue, suor e lágrimas daqueles que vieram antes de você. Elas são as experiências de lutas 
+de outros desenvolvedores que querem salvar você da mesma dor e sofrimento. Aprenda-as. Siga as regras... exceto quando você 
+não deve. Nenhuma regra se aplica a todas as situações (inclusive esta). Aprenda o Porquê por trás das regras, também. O Porquê é importante.
+Parte do amadurecimento como desenvolvedor é entender por que uma prática de liderança é importante... e quando não é. 
+Há uma arte para colorir a parte exterior quando ela não é mais. 
+Há uma arte para colorir fora da linhas, mas você precisa saber O quê, Onde e o Porquê das linhas. 
+Então, quando depara-se com uma situação em que a convenção não é exatamente o caminho correto da ação, 
+você deve fazer uma decisão razoável para quebrar a convenção - ao invés de simplesmente dizer "Eu não entendi, isso deve ser estúpido!".
 
-Nossa indústria tem 70 anos de experiências duramente adquiridas por trás. Aprende-as, aproveite-as e tire vantagem delas... e com isso você saberá como e quando quebrar as regras como um artista, não como um amador.
+Nossa indústria tem 70 anos de experiências duramente adquiridas por trás. Aprenda-as, aproveite-as e beneficie-se delas... e com isso você aprenderá como e 
+quando quebrar as regras como um artista, não como um amador.
 
 
 Larry Garfield // @Crell
