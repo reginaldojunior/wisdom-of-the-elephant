@@ -8,14 +8,12 @@ This is the "champion" strategy, where one person lead the effort, but has many 
 
 # PT-BR
 
-## Seja um facilitador. Permita que as pessoas cresçam e alcancem seu potencial, abrindo um caminho para seu crescimento completo.
+## Seja um facilitador. Permita que as pessoas cresÃ§am e alcancem seu potencial, abrindo um caminho para seu crescimento completo.
 
-As pessoas querem ajudar mais do que aparentam, especialmente se elas puderem ter suas contribuições. Esse senso de atribuição é comum em todos
-os segmentos do desenvolvimento de software Open-source (Open-source software development). Construa suas comunidades através do empoderamento de seus 
-membros e deixe bem aberto a contribuições.
+As pessoas estÃ£o dispostas a ajudar mais do que aparentam, especialmente se elas puderem ter suas contribuiÃ§Ãµes. Esse senso de atribuiÃ§Ã£o Ã© comum em todos os segmentos do desenvolvimento de software Open-source (Open-source Software Development). Construa suas comunidades atravÃ©s do empoderamento de seus membros e deixe-o bem aberto Ã  contribuiÃ§Ãµes.
 
-Esta é a estratégia "campeã", na qual uma pessoa lidera o esforço, mas tem muitas outras pessoas para ajudá-la a executar o trabalho. Isto põe
-uma pessoa apaixonada e motivada em mudança e alimenta seu desejo de se assegurar de que tudo seja feito. Capacite-a. Ofereça recursos e 
-patrocínios. Então foque no que você pode fazer e deixe seu pessoal se certificar de que todos os outros esforços estão recebendo atenção e sendo entregues.
+Esta Ã© a estratÃ©gia "campeÃ£", na qual uma pessoa lidera o esforÃ§o, mas tem muitas outras pessoas para ajudÃ¡-la a executar o trabalho. Isto pÃµe
+uma pessoa apaixonada e motivada em mudanÃ§a e alimenta seu desejo de se assegurar de que tudo seja feito. Capacite-a. OfereÃ§a recursos e 
+patrocÃ­nios. EntÃ£o foque no que vocÃª pode fazer e deixe seu pessoal se certificar de que todos os outros esforÃ§os estÃ£o recebendo atenÃ§Ã£o e sendo entregues.
 
 Rafael Dohms // @rdohms
