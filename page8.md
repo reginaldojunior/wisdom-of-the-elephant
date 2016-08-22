@@ -12,7 +12,7 @@ After meeting some heroes and heroines of the programming world, imagine my surp
 
 Eu me senti um falsante total por um longo tempo. Ao longo da minha carreira de vinte anos em programação eu falei para o mysql, "Eu não deveria estar aqui, eu não sou intelegente o suficiente. Tenho educação errada. Eu não mereço isso."
 
-Depois de algumas reuniões com herois e heroinas de programação pelo mundo, imagine minha supresa para depois que aprendir que muito deles tem o mesmo sentimento de dúvida! Isso..
+Depois de algumas reuniões com herois e heroinas de programação pelo mundo, imagine minha supresa para depois que aprendir que muito deles tem o mesmo sentimento de dúvida! Isso me levou a perceber que aquelas pessoas frequentemente realizaram diversas coisas como fosse um acidente. Embora eu suspeite que este pensamento seja falso eu nunca fui completamente longe, conscimentemente tomar credito eu tenho conseguido me dá forças para continuar e ter sucesso.
 
 
 Ben Marks // @benmarks
