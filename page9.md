@@ -7,4 +7,10 @@ by simply writing the code or tinkering on the server. I never had the patience 
 
 Understanding how you learn is very important. This is especially true when working with programming since you do not just read a book and become a programmer. There are so many concepts to learn and lessons to experience and even more mistakes to be made! Learning from the mistakes and exploring what is possible is what keeps me interested in programming.
 
+# PT-BR
+
+## Aprenda experimentando: Siga adiante e faça!
+
+Durante um longo tempo eu posso lembrar de coisas que aprendi fazendo outras. Eu tenho escolhido muitas linguagens e tecnlogias relacionadas as minhas habilidades para escrever...
+
 Joe Ferguson // @joepferguson
