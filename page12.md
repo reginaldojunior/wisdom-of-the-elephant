@@ -9,3 +9,12 @@ will find that opportunities just create themselves.
 
 
 Chris Hartjes // @grmpyprogrammer
+
+# BR
+
+## Afie suas ferramentas.
+
+Eu passei varios anos tentando descobrir o conjunto de ferramentas certas para fazer o tipo de trabalho que eu queria fazer. Uma vez eu as encontrei, experimentei, e as dominei: editor, sistemas operacionais, terminal, linguagens script, estruturas de teste, e medias socias.
+Eu sei que há uma tentação para ir atrás do que é mais popular e tras dinheiro, mas se voce domina suas ferramentas e as ideias por tras delas voce vai descobrir que as opoturnidades criam-se por si mesmas.
+
+Patrick Walter // @PatrickWalter387
