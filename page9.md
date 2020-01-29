@@ -9,8 +9,16 @@ Understanding how you learn is very important. This is especially true when work
 
 # PT-BR
 
-## Aprenda experimentando: Siga adiante e faça!
+## Aprendizado por Experiencia: Siga adiante e faça!
 
-Durante um longo tempo eu posso lembrar de coisas que aprendi fazendo outras. Eu tenho escolhido muitas linguagens e tecnlogias relacionadas as minhas habilidades para escrever...
+Até onde eu me lembro, eu sempre aprendi praticando. Eu aprendi varias linguagens de programação e habilidades relacionadas a tecnologia simplismente por escrever o codigo ou ficar mexendo no servidor. Eu nunca tive paciencia para ler a documentação de cima a baixo. Eu era muito ansioso para começar e ver as coisas funcionarem. Eu lia apenas o necessario da documentação e entao partia para minha jornada. Geralmente eu chegava em um ponto, verificava o que estava funcionando e o que não estava, e so entao voltava a buscar informações na documentação ou em outras fontes de conteudo. 
 
-Joe Ferguson // @joepferguson
+Entender como voce aprende é muito importante. Isso é ainda mais necessario quando se trabalha com programação, uma vez que voce não simplismente le um livro e ja se torna um programador. Há muitos conceitos para aprender e lições para vivenciar e ainda mais erros para cometer!
+Aprender apartir dos erros e explorar o que é possivel, é o que me mantem interessado na programação.
+
+Patrick Walter // @PatrickWalter387
+
+
+
+
+
